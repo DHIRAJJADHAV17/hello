@@ -1,5 +1,5 @@
 // eslint-disable-next-line quotes
-const hello = 'hello'
+const hello = 'Hello Node.js!'
 
 const returnhello = () => {
   console.log(hello)
